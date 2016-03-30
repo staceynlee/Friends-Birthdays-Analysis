@@ -1,6 +1,9 @@
 ---
 title: "Friends Birthday Analysis"
-output: html_document
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
 ---
 **Load libraries and data**
 ```{r}
